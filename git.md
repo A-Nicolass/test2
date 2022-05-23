@@ -102,5 +102,9 @@ git add . (ajouter tout les dossiers)
 on commit encore vu que l on vient de tout rajouter
 git commit -am"Ajout du .gitignore et de tout le reste"
 
+#créer le dépot sur GitHub
+
+git remote add origin 
+
 
 ```

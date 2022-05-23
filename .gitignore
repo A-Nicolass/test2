@@ -1,0 +1,3 @@
+secret.txt
+
+*.log (enlever tout les fichiers finissant par .log)
